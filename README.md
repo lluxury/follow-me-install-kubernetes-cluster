@@ -1,3 +1,5 @@
+仅为旧版备份
+
 # 和我一步步部署 kubernetes 集群
 
 ![dashboard-home](./images/dashboard-home.png)
